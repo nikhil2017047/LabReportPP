@@ -6,7 +6,6 @@
 # html files
 *.html
 *.htm
-!lab.html
 
 # Prerequisites
 *.d
