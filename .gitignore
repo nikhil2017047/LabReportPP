@@ -1,3 +1,10 @@
+# joe's backupfiles
+*~
+
+# html files
+*.html
+*.htm
+
 # Prerequisites
 *.d
 
