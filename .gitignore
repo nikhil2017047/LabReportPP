@@ -1,5 +1,7 @@
 # joe's backupfiles
 *~
+# lua files
+*.lua
 
 # html files
 *.html
