@@ -1,6 +1,6 @@
-[Home of Lab Report](../../lab.html)
+[Home of Lab Report](../lab.html)
 
-# Program Ex 01
+# Program Ex 01: Change it
 
 ## Source file/s
 
