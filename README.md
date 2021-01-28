@@ -29,6 +29,62 @@ you used some different project name.
 1. Edit `lab.md` file.
 1. Issue command: `md2html lab`
 
+---
+
+### Writing a Programming Lab Report
+
+## Report Format
+
+### Assignment/Problem Description: What were you required to implement?
+
+This is a word-for-word reiteration of the problem given to you.
+
+### Discussion:
+
+1. Solution/Program Description:
+
+  A brief description of what your program does, including how your program works. For example, you might state whether your solution is recursive or iterative. If required or requested, include a flowchart that corresponds to the design of your program.
+2. Major Implementation Issues:
+
+  What were the most difficult parts of your program to implement?
+
+### Known Bugs and/or Errors:
+
+List all the known limitations / bugs and / or errors of your program.
+
+After extensively testing your program, you should be aware of (nearly) every issue it has. How does your program handle bad input? How does your program handle edge cases? This section is a space for full-disclosure; what's wrong with your program?
+
+### Lessons Learned:
+
+1. What went well
+2. What you would do differently next time
+3. How the exercise might be revised to make it clearer/more satisfying
+4. What the faculty members might have done differently to promote learning
+
+### General Tips
+
+1. It is expected that you use as much simple language as you can. There should be no emphasis placed on "expressing yourself" or "keeping it interesting"; a programming lab report is not a narrative.
+1. In a lab report, it is important to get to the point. Be descriptive enough that your audience can understand the problem and your solution, but strive to be concise.
+1. Focus on the work accomplished
+1. Do document well the process used to complete the work.
+
+-----
+
+Instructions to students for preparing
+
+## PPS Laboratory report
+
+Sample of Laboratory Report is shown for Laboratory Practical-1. For the rest of the work, the reporting style as provided is to be followed. The laboratory report to be submitted should include followings:
+1. Cover page: First page of lab report.
+2. Index: Title of Lab Exercise reported with clickable link to report.
+
+For each exercise / practical:
+
+1. Title of the program
+1. Coding
+1. Output (compilation, debugging & testing)
+
+---
 ## To know about how to make good webpages, it is recommended to go through the following.
 
 ## Welcome to GitHub Pages
