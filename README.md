@@ -13,15 +13,14 @@
 1. In directory `public_html` of your account on `Code Server`, issue command: `git clone https://github.com/YourGitHubUserID/LabReportPP.git`
 1. Go to directory LabReportPP, by using command `cd LabReportPP`.
 1. Using `xmake` create a new project, say `Ex01`.
-1. Go to the newly created folder, by following command. Replace `Ex01`, if
-you used some different project name.
+1. Go to the newly created folder, by following command. Replace `Ex01`, if you used some different project name.
 1. `cd Ex01`
-1. Edit `src/main.c`.
+1. Edit `src/main.c`
 1. Create more .c or .h files as per the requirements of the project.
-1. Compile with `xmake`.
+1. Compile with `xmake`
 1. Remove errors / warnings, if you get any.
-1. Execute code by `xmake run`.
-1. Test you code. When all is Ok, then to generate lab report for this practical, issue command: `labrep`.
+1. Execute code by `xmake run`
+1. Test you code. When all is Ok, then to generate lab report for this practical, issue command: `labrep`
 1. It will produce `report.md` and `report.html` file in current folder.
 1. Edit `report.md` file, to add more content, or to change anything.
 1. To update `report.html` from this amended `report.md` file, issue command: `md2html report`
